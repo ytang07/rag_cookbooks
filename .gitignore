@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 volumes
 .DS_Store
+*_test.ipynb
